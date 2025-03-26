@@ -1,0 +1,273 @@
+--------------------------------------------------------------------------------
+Checking arguments for creation of PTA package
+Target LPK file: C:\Users\fdiaz\Documents\Repositorios\AutAcademy_OOP\ThisExample2.76998303-f63c-4bf2-a68d-1851d8790195.Lenze_25200000_000000_100_0x00010A01.intlpk
+Package configuration file: C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\TaPackage.config
+OK
+
+--------------------------------------------------------------------------------
+Checking arguments for LDP merge
+Execution directory name: C:\Users\fdiaz\AppData\Local\assembly\dl3\QETC3P8A.5BX\WZ2NCW97.NG7\df6d7dc1\003297da_c52dda01
+Signature key file: missing.
+Base device LDP file: C:\ProgramData\Lenze\DeviceDescription\{5E796237-6C09-48EA-8C4D-572A2234DAA5}\Lenze_25200000_0x00010C00.ldp
+TA LDP file: C:\Users\fdiaz\Documents\Repositorios\AutAcademy_OOP\ThisExample2.76998303-f63c-4bf2-a68d-1851d8790195.SoftPlcParameter.ldp
+LDP target directory: C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75
+OK
+
+--------------------------------------------------------------------------------
+Reading LDP merge configuration data from file:
+C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\TaPackage.config
+
+OK
+
+--------------------------------------------------------------------------------
+Extracting base device LXD file structure
+Main document: Lenze_25200000_0x00010C00.lxd / Version: 1.0.0.0 / Bytes: 466455 / LastWriteTimeUtc: 2024-04-08T13:30:05.4068049Z / MD5 hash: AHRJzUjmuWf9milw5apMjg==
+String table document: Lenze_25200000_0x00010C00.de-DE.lxd / Version: 1.0.0.0 / Bytes: 145277 / LastWriteTimeUtc: 2024-04-08T13:30:05.4188296Z / MD5 hash: BWWIw+ehDZasRac8PEInsg==
+OK
+
+--------------------------------------------------------------------------------
+Extracting TA LXD file structure
+Main document: SoftPlcParameter.lxd / Version: 1.0.0.0 / Bytes: 638681 / LastWriteTimeUtc: 2025-03-24T15:34:09.6863403Z / MD5 hash: F7G0LB44cNJZeRebZSRzkw==
+String table document: SoftPlcParameter.de-DE.lxd / Version: 1.0.0.0 / Bytes: 230583 / LastWriteTimeUtc: 2025-03-24T15:34:09.6923406Z / MD5 hash: ApAV9oKpiQFC7URMI44png==
+Data file: SoftPlcEasyStarterConfig.de-DE.xml / Bytes: 210 / LastWriteTimeUtc: 2025-03-24T15:34:09.6923406Z / MD5 hash: Ld/DlFRy4QQSu+RIYkJQmw==
+Data file: SoftPlcEasyStarterConfig.xml / Bytes: 3337 / LastWriteTimeUtc: 2025-03-24T15:34:09.6923406Z / MD5 hash: WB6TGXTrIiGi6+TCGdLwQQ==
+OK
+
+--------------------------------------------------------------------------------
+Reading LXD merge configuration data from file:
+C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\TaPackage.config
+
+Reading string arguments from config file
+TA number: 100
+TA version: 1
+SelectTextFor1018Sub2Suffix en-US: TA ThisExample2
+SelectTextFor1018Sub2Suffix de-DE: TA ThisExample2
+ProductNameSuffix en-US: TA ThisExample2
+ProductNameSuffix de-DE: TA ThisExample2
+ProductInfoTextSuffix en-US: TA ThisExample2
+ProductInfoTextSuffix de-DE: TA ThisExample2
+SelectTextFor2013Sub1 en-US: TA ThisExample2
+SelectTextFor2013Sub1 de-DE: TA ThisExample2
+OK
+
+--------------------------------------------------------------------------------
+Checking arguments for LXD merge
+Execution directory name: C:\Users\fdiaz\AppData\Local\assembly\dl3\QETC3P8A.5BX\WZ2NCW97.NG7\df6d7dc1\003297da_c52dda01
+LXD schema: C:\Program Files (x86)\Lenze\PlcDesigner\3.28.0.28491\PlcDesigner\Common\LXD.xsd
+Package configuration file: C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\TaPackage.config
+Temp directory: C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75
+LXD target directory: automatically set to C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75
+OK
+
+--------------------------------------------------------------------------------
+Reading LXD merge configuration data from file:
+C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\TaPackage.config
+
+LXD merge configuration data already known.
+Reading C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\TaPackage.config skipped.
+OK
+
+--------------------------------------------------------------------------------
+Identifying base device file structure
+Main document: 'C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\B\Lenze_25200000_0x00010C00.lxd'
+String table 'de-DE': 'C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\B\de-DE\Lenze_25200000_0x00010C00.de-DE.lxd'
+OK
+
+--------------------------------------------------------------------------------
+Identifying TA file structure
+Main document: 'C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\A\SoftPlcParameter.lxd'
+String table 'de-DE': 'C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\A\de-DE\SoftPlcParameter.de-DE.lxd'
+Data file: 'C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\A\SoftPlcParameter\SoftPlcEasyStarterConfig.de-DE.xml'
+Data file: 'C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\A\SoftPlcParameter\SoftPlcEasyStarterConfig.xml'
+OK
+
+--------------------------------------------------------------------------------
+Reading:
+C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\B\Lenze_25200000_0x00010C00.lxd
+Reading:
+C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\B\de-DE\Lenze_25200000_0x00010C00.de-DE.lxd
+Reading:
+C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\A\SoftPlcParameter.lxd
+Reading:
+C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\A\de-DE\SoftPlcParameter.de-DE.lxd
+TA wants to add: 0x5102
+TA wants to add: 0x5103
+TA wants to add: 0x5104
+TA wants to add: 0x5105
+TA wants to add: 0x5106
+TA wants to add: 0x5101
+OK
+
+--------------------------------------------------------------------------------
+Merging data
+
+Merging / updating main document
+Object added: 0x5102
+Object added: 0x5103
+Object added: 0x5104
+Object added: 0x5105
+Object added: 0x5106
+Object added: 0x5101
+1 sub menu entries cloned.
+168 entries for parameter group Oscilloscope.RecordableObjects cloned.
+1098 error list entries cloned.
+EncodedType set to: 25200000#100
+Version set to: 1.3073.0.0
+ProductRevision set to: 1.3073
+ProductName set to: c520 FW V01.12 - TA ThisExample2
+ProductInfoText set to: c520 FW V01.12 - TA ThisExample2
+SelectTect for 0x2013:1 is already known
+Writing main document to:
+C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\T\Lenze_25200000#100_0x00010C01.lxd
+OK
+
+Merging / updating string tables
+Updating string table for culture: de-DE
+2500 string table entries added.
+0 string table entries redefined.
+ProductName for culture de-DE set to: c520 FW V01.12 - TA ThisExample2
+ProductInfoText for culture de-DE set to: c520 FW V01.12 - TA ThisExample2
+TA related SelectText in 0x2013:1 for culture de-DE set to: TA ThisExample2
+Writing string table document to: 
+C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\T\de-DE\Lenze_25200000#100_0x00010C01.de-DE.lxd
+OK
+
+
+Temporary LXD file structure successfully created: C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\T\Lenze_25200000#100_0x00010C01.lxd
+OK
+
+--------------------------------------------------------------------------------
+Validating created temporary file structure
+OK
+
+--------------------------------------------------------------------------------
+Compare & update target file structure
+OK
+
+--------------------------------------------------------------------------------
+Updating LDP
+
+C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\Lenze_25200000_100_0x00010C01.ldp
+Creating temporary LDP file: C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\93e4db66-a5f0-4b39-9d4f-8c39765e71fd\Lenze_25200000_100_0x00010C01.ldp
+Adding file structure related to C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\Lenze_25200000#100_0x00010C01.lxd
+
+Adding slave descriptions:
+
+Creating reduced slave LDP files
+
+Communication path: ETC0.1002, original LDP: C:\ProgramData\Lenze\DeviceDescription\{CCFB1E9A-23F7-4D38-BA56-4F57903F3AF4}\Lenze_69075001_0x00010002.ldp, original LXD: Lenze_69075001_0x00010002.lxd
+Creating new slave LDP
+Updating slave LDP: C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\Slave.Lenze_69075001_0x00010002\Slave.Lenze_69075001_0x00010002.ldp
+Reading LXD data related to Lenze_69075001_0x00010002.lxd from C:\ProgramData\Lenze\DeviceDescription\{CCFB1E9A-23F7-4D38-BA56-4F57903F3AF4}\Lenze_69075001_0x00010002.ldp
+Reducing LXD data
+Saving LXD data related to C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\Slave.Lenze_69075001_0x00010002\Lenze_69075001_0x00010002.lxd
+Adding reduced LXD file structure to: C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\Slave.Lenze_69075001_0x00010002\Slave.Lenze_69075001_0x00010002.ldp
+
+Communication path: ETC0.1003, original LDP: C:\ProgramData\Lenze\DeviceDescription\{CCFB1E9A-23F7-4D38-BA56-4F57903F3AF4}\Lenze_69075001_0x00010002.ldp, original LXD: Lenze_69075001_0x00010002.lxd
+
+Communication path: ETC0.1004, original LDP: C:\ProgramData\Lenze\DeviceDescription\{CCFB1E9A-23F7-4D38-BA56-4F57903F3AF4}\Lenze_69075001_0x00010002.ldp, original LXD: Lenze_69075001_0x00010002.lxd
+
+Communication path: ETC0.1005, original LDP: C:\ProgramData\Lenze\DeviceDescription\{CCFB1E9A-23F7-4D38-BA56-4F57903F3AF4}\Lenze_69075001_0x00010002.ldp, original LXD: Lenze_69075001_0x00010002.lxd
+
+Communication path: ETC0.1006, original LDP: C:\ProgramData\Lenze\DeviceDescription\{CCFB1E9A-23F7-4D38-BA56-4F57903F3AF4}\Lenze_69075001_0x00010002.ldp, original LXD: Lenze_69075001_0x00010002.lxd
+
+Communication path: ETC0.1007, original LDP: C:\ProgramData\Lenze\DeviceDescription\{CCFB1E9A-23F7-4D38-BA56-4F57903F3AF4}\Lenze_69075001_0x00010002.ldp, original LXD: Lenze_69075001_0x00010002.lxd
+
+Creation of reduced slave LDP files finished.
+Adding reduced LDP to target file structure
+C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\Slave.Lenze_69075001_0x00010002\Slave.Lenze_69075001_0x00010002.ldp
+
+Creating and adding SlaveMapping.xml
+
+Signing temporary LDP
+Closing temporary LDP.
+
+Data of saved temporary LDP:
+ContentType: LDP/Device
+Version: 0.0.0.6
+Created: 3/24/2025 3:34:10 PM
+Creator: CES282392
+Modified: 3/24/2025 3:34:10 PM
+LastModifiedBy: CES282392 (Lenze)
+Property: BaseDeviceLdpFileName = Lenze_25200000_0x00010C00.ldp
+Signature key id: i900.LdpMerge
+Signature: \Lenze_25200000#100_0x00010C01.lxd - 6E1623A3A2937614F18BD40F6C11803DB780FF340015D24EFF9EA0D65EEA4E3FE7633E7A5C92373F3A4D3003E5B8AF1D500837E1DAAA138EEF9A6E0EE7332B47AE8033FE1220A1E7E7782D603F871C958D106A1DB28A9B845E3E460D850D54DBFC36CE8D9C12A825028224CED2957A6E2D33B5E8FA6078075AD5CFDD395940B3
+Signature: \Cultures\de-DE\Lenze_25200000#100_0x00010C01.de-DE.lxd - 0E91278019A8D0529608051D657EA52FA85E5D6D77236C89555CD9B939267CE5031BB68B0A9E0C99D5BBB5FAB2F0B2F5DEFBE67533AE81E09C8877AE1FCBB45F3A83ACB6EEB9F4862A6EBA4C910090CACA86558C5BC1F5E4080CE6498CFF475E5A57F5A2D26BF09434D4B1966DAEA41846D329973F657EAFF6C4013F356B0136
+Signature: \Lenze_25200000#100_0x00010C01\Slave.Lenze_69075001_0x00010002.ldp - 5ACD170324B0A201ED3E2370A81DFAC2CD1235F238B0A2AB888B007F7BC68BB38D83EB6E1412C36BE7AF4B86433B3C65CA6139ED20CCE8EFBF746AEDF6E735CFCB65392A1691B8693A5684366A4709EF1F4BBBB214411BBF91F23F8721AAEE4D445B2621FB2CD43BA36722B3AE37666D07D6CC6A7D9E0E22AEFBE65037BBCF61
+Signature: \Lenze_25200000#100_0x00010C01\SlaveMapping.xml - 506857ACA1F8F1D92C02990680DCDA7452B312602A6B149C8305829B62D3E19633C7707EB62A3247501D2260571C1EF6377741A9CEF0898ECB42F513FB0535102FCE809E5DFE34B223EA69E9A431B8979ABAD9A3046C64916D63D613C1E902E68829B85C1753C71488888FDB31408361204DA1A83C7504C8B567BD5B1729B0C7
+Main document: Lenze_25200000#100_0x00010C01.lxd / Version: 1.0.0.0 / Bytes: 951705 / LastWriteTimeUtc: 2025-03-24T15:34:10.0592402Z / MD5 hash: gBmrMtgYZEN2YELiLMMyJQ==
+String table document: Lenze_25200000#100_0x00010C01.de-DE.lxd / Version: 1.0.0.0 / Bytes: 360724 / LastWriteTimeUtc: 2025-03-24T15:34:10.1042080Z / MD5 hash: YukpJawtmbajcRCK0lXbyg==
+Data file: Slave.Lenze_69075001_0x00010002.ldp / Bytes: 24040 / LastWriteTimeUtc: 2025-03-24T15:34:10.4838315Z / MD5 hash: UYksWVe82BAZJd39mpV7qg==
+Data file: SlaveMapping.xml / Bytes: 1312 / LastWriteTimeUtc: 2025-03-24T15:34:10.4848342Z / MD5 hash: TKG39VivKL/QW7pJJ3a4eQ==
+
+Target LDP file does not exist and will be created newly.
+Copying temporary LDP file to: C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\Lenze_25200000_100_0x00010C01.ldp
+
+Final target LDP data:
+ContentType: LDP/Device
+Version: 0.0.0.6
+Created: 3/24/2025 3:34:10 PM
+Creator: CES282392
+Modified: 3/24/2025 3:34:10 PM
+LastModifiedBy: CES282392 (Lenze)
+Property: BaseDeviceLdpFileName = Lenze_25200000_0x00010C00.ldp
+Signature key id: i900.LdpMerge
+Signature: \Lenze_25200000#100_0x00010C01.lxd - 6E1623A3A2937614F18BD40F6C11803DB780FF340015D24EFF9EA0D65EEA4E3FE7633E7A5C92373F3A4D3003E5B8AF1D500837E1DAAA138EEF9A6E0EE7332B47AE8033FE1220A1E7E7782D603F871C958D106A1DB28A9B845E3E460D850D54DBFC36CE8D9C12A825028224CED2957A6E2D33B5E8FA6078075AD5CFDD395940B3
+Signature: \Cultures\de-DE\Lenze_25200000#100_0x00010C01.de-DE.lxd - 0E91278019A8D0529608051D657EA52FA85E5D6D77236C89555CD9B939267CE5031BB68B0A9E0C99D5BBB5FAB2F0B2F5DEFBE67533AE81E09C8877AE1FCBB45F3A83ACB6EEB9F4862A6EBA4C910090CACA86558C5BC1F5E4080CE6498CFF475E5A57F5A2D26BF09434D4B1966DAEA41846D329973F657EAFF6C4013F356B0136
+Signature: \Lenze_25200000#100_0x00010C01\Slave.Lenze_69075001_0x00010002.ldp - 5ACD170324B0A201ED3E2370A81DFAC2CD1235F238B0A2AB888B007F7BC68BB38D83EB6E1412C36BE7AF4B86433B3C65CA6139ED20CCE8EFBF746AEDF6E735CFCB65392A1691B8693A5684366A4709EF1F4BBBB214411BBF91F23F8721AAEE4D445B2621FB2CD43BA36722B3AE37666D07D6CC6A7D9E0E22AEFBE65037BBCF61
+Signature: \Lenze_25200000#100_0x00010C01\SlaveMapping.xml - 506857ACA1F8F1D92C02990680DCDA7452B312602A6B149C8305829B62D3E19633C7707EB62A3247501D2260571C1EF6377741A9CEF0898ECB42F513FB0535102FCE809E5DFE34B223EA69E9A431B8979ABAD9A3046C64916D63D613C1E902E68829B85C1753C71488888FDB31408361204DA1A83C7504C8B567BD5B1729B0C7
+Main document: Lenze_25200000#100_0x00010C01.lxd / Version: 1.0.0.0 / Bytes: 951705 / LastWriteTimeUtc: 2025-03-24T15:34:10.0592402Z / MD5 hash: gBmrMtgYZEN2YELiLMMyJQ==
+String table document: Lenze_25200000#100_0x00010C01.de-DE.lxd / Version: 1.0.0.0 / Bytes: 360724 / LastWriteTimeUtc: 2025-03-24T15:34:10.1042080Z / MD5 hash: YukpJawtmbajcRCK0lXbyg==
+Data file: Slave.Lenze_69075001_0x00010002.ldp / Bytes: 24040 / LastWriteTimeUtc: 2025-03-24T15:34:10.4838315Z / MD5 hash: UYksWVe82BAZJd39mpV7qg==
+Data file: SlaveMapping.xml / Bytes: 1312 / LastWriteTimeUtc: 2025-03-24T15:34:10.4848342Z / MD5 hash: TKG39VivKL/QW7pJJ3a4eQ==
+OK
+
+--------------------------------------------------------------------------------
+Reading LPK merge configuration data from file:
+C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\TaPackage.config
+
+PackageNameSuffix en-US: TA ThisExample2
+PackageNameSuffix de-DE: TA ThisExample2
+DisplayNodes en-US: c520
+DisplayNodes de-DE: c520
+OK
+
+--------------------------------------------------------------------------------
+Updating target LPK
+
+C:\Users\fdiaz\Documents\Repositorios\AutAcademy_OOP\ThisExample2.76998303-f63c-4bf2-a68d-1851d8790195.Lenze_25200000_000000_100_0x00010A01.intlpk
+
+Creating temporary LPK file: C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\ThisExample2.76998303-f63c-4bf2-a68d-1851d8790195.Lenze_25200000_000000_100_0x00010A01.intlpk
+There are no additional files to be added to LPK.
+Saving temporary LPK file: C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\ThisExample2.76998303-f63c-4bf2-a68d-1851d8790195.Lenze_25200000_000000_100_0x00010A01.intlpk
+Data of saved temporary LPK:
+Package Id: 34de0389-8f44-4288-9532-2ad3d6334e68
+Package version: 1.0
+Content: UserDeviceDescription
+Package name: c520 FW V01.12 - TA ThisExample2 (100) V1
+Package name en-US: c520 FW V01.12 - TA ThisExample2 (100) V1
+Package name de-DE: c520 FW V01.12 - TA ThisExample2 (100) V1
+Display nodes: c520
+Display nodes en-US: c520
+Display nodes de-DE: c520
+Package module: Lenze_25200000_100_0x00010C01.ldp / Version: 0.0.0.6 / Bytes: 157048 / LastWriteTimeUtc: 2025-03-24T15:34:10.5549935Z / MD5 hash: J0NVYEb/FH+ZqbV0yaIx8A==
+OK
+
+Target LPK file does not exist and will be created newly.
+Copying LPK file from C:\Users\fdiaz\AppData\Local\Temp\9e30232d-5aeb-46a9-82de-f337e4702b75\ThisExample2.76998303-f63c-4bf2-a68d-1851d8790195.Lenze_25200000_000000_100_0x00010A01.intlpk to C:\Users\fdiaz\Documents\Repositorios\AutAcademy_OOP\ThisExample2.76998303-f63c-4bf2-a68d-1851d8790195.Lenze_25200000_000000_100_0x00010A01.intlpk
+
+Final target package data:
+Package Id: 34de0389-8f44-4288-9532-2ad3d6334e68
+Package version: 1.0
+Content: UserDeviceDescription
+Package name: c520 FW V01.12 - TA ThisExample2 (100) V1
+Package name en-US: c520 FW V01.12 - TA ThisExample2 (100) V1
+Package name de-DE: c520 FW V01.12 - TA ThisExample2 (100) V1
+Display nodes: c520
+Display nodes en-US: c520
+Display nodes de-DE: c520
+Package module: Lenze_25200000_100_0x00010C01.ldp / Version: 0.0.0.6 / Bytes: 157048 / LastWriteTimeUtc: 2025-03-24T15:34:10.5549935Z / MD5 hash: J0NVYEb/FH+ZqbV0yaIx8A==
+OK
+
+-------------------------------------------------------------------------------
+
